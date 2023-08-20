@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third year M.A. student at the School of Information Science and Technology, majoring in Computer Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), working at ViSeer LAB under the supervision of [Prof. Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/). My research interests include urban data visualization, Financial Technology (FinTech), eXplainable Artificial Intelligence (XAI), and visual analytics. My research aims to help people understand and communicate data and models through scalable visual interfaces and interpretable techniques.
+**I am a third year M.A. student at the School of Information Science and Technology, majoring in Computer Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), working at ViSeer LAB under the supervision of [Prof. Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/). My research interests include urban data visualization, Financial Technology (FinTech), eXplainable Artificial Intelligence (XAI), and visual analytics. My research aims to help people understand and communicate data and models through scalable visual interfaces and interpretable techniques.**
 
 
 # 📝 Publications 
