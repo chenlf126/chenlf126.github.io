@@ -30,7 +30,19 @@ redirect_from:
 **Longfei Chen**, He Wang, Yang Ouyang, Yang Zhou, Naiyu Wang, Quan Li
 
 [**PDF**](https://arxiv.org/pdf/2307.12227.pdf)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2022</div><img src='images/RISeer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RISeer: Inspecting the Status and Dynamics of Regional Industrial Structure via Visual Analytics](https://arxiv.org/abs/2208.00625)
+
+**Longfei Chen**, Yang Ouyang, Haipeng Zhang, Suting Hong, Quan Li
+
+[**PDF**](https://arxiv.org/pdf/2208.00625.pdf)
+
 </div>
 </div>
 
