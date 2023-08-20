@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Longfei Chen (陈龙飞)"
+title                    : "Longfei Chen"
 description              : "Longfei Chen's Homepage"
 repository               : "chenlf126/chenlf126.github.io"
 google_scholar_stats_use_cdn : true
