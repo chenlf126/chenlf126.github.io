@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**I am currently in my third year of pursuing a Master's degree in Computer Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/). I am actively engaged as a member of ViSeer LAB, where I am under the mentorship of [Prof. Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/). My academic pursuits revolve around various areas including urban data visualization, Financial Technology (FinTech), eXplainable Artificial Intelligence (XAI), and visual analytics. The primary focus of my research lies in enabling effective comprehension and communication of data and models through the utilization of scalable visual interfaces and interpretable methodologies.**
+**I am currently in my third year of pursuing a Master's degree in Computer Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/). I am actively engaged as a member of ViSeer LAB, where I am under the mentorship of [Prof. Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/). My academic pursuits revolve around various areas including urban data visualization, eXplainable Artificial Intelligence (XAI) and Financial Technology (FinTech). The primary focus of my research lies in enabling effective comprehension and communication of data and models through the utilization of scalable visual interfaces and interpretable methodologies.**
 
 
 # 📝 Publications 
@@ -65,4 +65,4 @@ Laixin Xie, Yang Ouyang, **Longfei Chen**, Ziming Wu, Quan Li
 - *2017.09 - 2021.06*, **Bachelor**, Computer Science and Technology, ShanghaiTech University.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.08 - 2020.06*, [Shanghai Center for Brain Science and Brain-Inspired Technology](https://www.bsbii.cn/), China.
