@@ -25,19 +25,19 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2023</div><img src='images/FSLens.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FSLens: A Visual Analytics Approach to Evaluating and Optimizing the Spatial Layout of Fire Stations](https://arxiv.org/pdf/2307.12227.pdf)
+[FSLens: A Visual Analytics Approach to Evaluating and Optimizing the Spatial Layout of Fire Stations](https://arxiv.org/abs/2307.12227)
 
 **Longfei Chen**, He Wang, Yang Ouyang, Yang Zhou, Naiyu Wang, Quan Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**PDF**](https://arxiv.org/pdf/2307.12227.pdf)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 
 # 📖 Educations
-- *2019.06 - present*, **Master**, Computer Science and Technology, ShanghaiTech University. 
-- *2015.09 - 2019.06*, **Bachelor**, Computer Science and Technology, ShanghaiTech University.
+- *2021.09 - present*, **Master**, Computer Science and Technology, ShanghaiTech University. 
+- *2017.09 - 2021.06*, **Bachelor**, Computer Science and Technology, ShanghaiTech University.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
