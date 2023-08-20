@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**I am a third year M.A. student at the School of Information Science and Technology, majoring in Computer Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), working at ViSeer LAB under the supervision of [Prof. Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/). My research interests include urban data visualization, Financial Technology (FinTech), eXplainable Artificial Intelligence (XAI), and visual analytics. My research aims to help people understand and communicate data and models through scalable visual interfaces and interpretable techniques.**
+**I am currently in my third year of pursuing a Master's degree in Computer Science and Technology at [ShanghaiTech University](https://www.shanghaitech.edu.cn/). I am actively engaged as a member of ViSeer LAB, where I am under the mentorship of [Prof. Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/). My academic pursuits revolve around various areas including urban data visualization, Financial Technology (FinTech), eXplainable Artificial Intelligence (XAI), and visual analytics. The primary focus of my research lies in enabling effective comprehension and communication of data and models through the utilization of scalable visual interfaces and interpretable methodologies.**
 
 
 # 📝 Publications 
@@ -57,7 +57,7 @@ Laixin Xie, Yang Ouyang, **Longfei Chen**, Ziming Wu, Quan Li
 
 </div>
 </div>
-
+- [Amplifying the Music Listening Experience through Song Comments on Music Streaming Platforms](https://arxiv.org/abs/2308.04022)
 
 # 📖 Educations
 - *2021.09 - present*, **Master**, Computer Science and Technology, ShanghaiTech University. 
