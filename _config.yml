@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Longfei Chen (陈龙飞)"
+description              : "Longfei Chen's Homepage"
 repository               : "chenlf126/chenlf126.github.io"
 google_scholar_stats_use_cdn : true
 
