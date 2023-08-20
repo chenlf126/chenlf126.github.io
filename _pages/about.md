@@ -46,6 +46,18 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/CL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Better Modeling With Missing Data: A Contrastive Learning-Based Visual Analytics Perspective](https://ieeexplore.ieee.org/abstract/document/10149378)
+
+Laixin Xie, Yang Ouyang, **Longfei Chen**, Ziming Wu, Quan Li
+
+[**PDF**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10149378)
+
+</div>
+</div>
+
 
 # 📖 Educations
 - *2021.09 - present*, **Master**, Computer Science and Technology, ShanghaiTech University. 
