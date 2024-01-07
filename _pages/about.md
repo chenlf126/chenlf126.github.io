@@ -60,6 +60,9 @@ Laixin Xie, Yang Ouyang, **Longfei Chen**, Ziming Wu, Quan Li
 
 - [Amplifying the Music Listening Experience through Song Comments on Music Streaming Platforms](https://arxiv.org/abs/2308.04022), **Longfei Chen**, Qianyu Liu, Chenyang Zhang, Yangkun Huang, Zhenhui Peng, Haipeng Zeng, Zhida Sun, Xiaojuan Ma, Quan Li, ChinaVis 2023
 
+# 🎖 Honors and Awards
+- *2023*, **National Scholarship**, China.
+
 # 📖 Educations
 - *2021.09 - present*, **Master**, Computer Science and Technology, ShanghaiTech University. 
 - *2017.09 - 2021.06*, **Bachelor**, Computer Science and Technology, ShanghaiTech University.
