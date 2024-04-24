@@ -22,6 +22,18 @@ redirect_from:
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/FSLens.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+FMLens: Towards Better Scaffolding the Process of Fund Manager Selection in Fund Investments
+
+**Longfei Chen**, Chen Cheng, He Wang, Xiyuan Wang, Yun Tian, Xuanwu Yue, Wong Kam-Kwai, Haipeng Zhang, Suting Hong, and Quan Li
+
+**PDF**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2023</div><img src='images/FSLens.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
