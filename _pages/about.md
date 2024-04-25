@@ -80,4 +80,5 @@ Laixin Xie, Yang Ouyang, **Longfei Chen**, Ziming Wu, Quan Li
 - *2017.09 - 2021.06*, **Bachelor**, Computer Science and Technology, ShanghaiTech University.
 
 # 💻 Internships
+- *2024.01 - present*, [LALAMOVE](https://www.huolala.cn/), Shanghai, China.
 - *2019.08 - 2020.06*, [Shanghai Center for Brain Science and Brain-Inspired Technology](https://www.bsbii.cn/), Shanghai, China.
